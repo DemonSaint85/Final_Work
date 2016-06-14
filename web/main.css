@@ -103,13 +103,13 @@ h4, h4 a { font-size: medium;  color:#4B0082; font-weight: bold; font-family: 'D
 
 h5, h5 a { font-size: small ;  color:#708090; font-weight: bold; font-family: 'DFKai-sb', 'Tahoma'; }
 
-h6, h6 a { font-size: x-small; color:#﻿﻿000080; }
+h6, h6 a { font-size: x-small; color:#000080; }
 
 p {
   font-family: 'Pmingliu', 'Tahoma';
   margin: 5px;
   font-size:100%;
-  color:#353535;
+  color:#669933;
 }
 
 li {
